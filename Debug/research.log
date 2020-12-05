@@ -1,0 +1,7 @@
+﻿  research_path.c
+C:\Users\heidi\source\repos\research\research_path.c(18,28): warning C4244:  '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\heidi\source\repos\research\research_path.c(19,35): warning C4244:  '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\heidi\source\repos\research\research_path.c(20,35): warning C4244:  '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\heidi\source\repos\research\research_path.c(46,11): warning C4244:  '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\heidi\source\repos\research\research_path.c(36,14): warning C4101:  'ang' :참조되지 않은 지역 변수입니다.
+  research.vcxproj -> C:\Users\heidi\source\repos\research\Debug\research.exe
